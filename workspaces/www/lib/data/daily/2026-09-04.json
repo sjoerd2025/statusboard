@@ -220896,7 +220896,7 @@
       "conclusion": "failure"
     },
     "stars": {
-      "count": 10083,
+      "count": 10085,
       "url": "https://github.com/npm/cli/stargazers"
     },
     "pkgPrivate": false,
@@ -224607,10 +224607,10 @@
       ]
     },
     "issues": {
-      "count": 600,
+      "count": 601,
       "url": "https://github.com/npm/cli/issues?q=is%3Aopen",
       "unlabeled": {
-        "count": 62,
+        "count": 63,
         "url": "https://github.com/npm/cli/issues?q=is%3Aopen+no%3Alabel",
         "history": [
           7,
@@ -225836,7 +225836,7 @@
           61,
           61,
           62,
-          62
+          63
         ]
       },
       "priority": {
@@ -229523,7 +229523,7 @@
         596,
         596,
         599,
-        600
+        601
       ]
     }
   },
@@ -468406,13 +468406,13 @@
     "defaultBranch": "main",
     "url": "https://github.com/npm/statusboard",
     "lastPush": {
-      "date": "2026-09-03T12:35:46Z",
-      "url": "https://github.com/npm/statusboard/commit/f0279a6060b1e1962fbc938943f3852dd43ef2c7"
+      "date": "2026-09-04T12:35:40Z",
+      "url": "https://github.com/npm/statusboard/commit/2c68b937a5ce851d0cd721b7f9d43012af21ef65"
     },
     "archived": false,
     "status": {
-      "url": "https://github.com/npm/statusboard/actions/runs/33871844254/job/101019417344",
-      "conclusion": "failure"
+      "url": "https://github.com/npm/statusboard/actions",
+      "conclusion": "success"
     },
     "stars": {
       "count": 208,
